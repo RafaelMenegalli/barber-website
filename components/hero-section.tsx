@@ -11,7 +11,7 @@ export function HeroSection() {
         <div className="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" />
       </div>
  
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
+      <div className="mx-auto max-w-7xl px-6 lg:px-8 pb-12">
         <div className="mx-auto max-w-2xl pt-32 sm:pt-48 lg:pt-56">
           <motion.div
             initial={{ opacity: 0, y: 20 }}

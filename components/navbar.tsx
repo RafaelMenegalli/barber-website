@@ -16,6 +16,7 @@ export function Navbar() {
           <div className="flex">
             <Link href="/" className="flex items-center">
               <span className="text-2xl font-bold">Socratix</span>
+              {/* <img src="logo-sem-fundo.png" alt="Logo" /> */}
             </Link>
           </div>
 
